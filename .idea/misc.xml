@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../dkeTest/feedFriends/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/follow/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/login/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/personalFeed/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/posting/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/registration/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/search/pom.xml" />
+        <option value="$PROJECT_DIR$/../dkeTest/setting/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="false">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

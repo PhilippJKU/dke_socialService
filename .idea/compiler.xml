@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="personalFeed" />
+        <module name="search" />
+        <module name="feedFriends" />
+        <module name="registration" />
+        <module name="follow" />
+        <module name="login" />
+        <module name="posting" />
+        <module name="setting" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="feedFriends" target="11" />
+      <module name="follow" target="11" />
+      <module name="login" target="11" />
+      <module name="personalFeed" target="11" />
+      <module name="posting" target="11" />
+      <module name="registration" target="11" />
+      <module name="search" target="11" />
+      <module name="setting" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="feedFriends" options="-parameters" />
+      <module name="follow" options="-parameters" />
+      <module name="login" options="-parameters" />
+      <module name="personalFeed" options="-parameters" />
+      <module name="posting" options="-parameters" />
+      <module name="registration" options="-parameters" />
+      <module name="search" options="-parameters" />
+      <module name="setting" options="-parameters" />
+    </option>
+  </component>
+</project>

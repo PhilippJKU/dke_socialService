@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/feedFriends/feedFriends.iml" filepath="$PROJECT_DIR$/../dkeTest/feedFriends/feedFriends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/follow/follow.iml" filepath="$PROJECT_DIR$/../dkeTest/follow/follow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/login/login.iml" filepath="$PROJECT_DIR$/../dkeTest/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/personalFeed/personalFeed.iml" filepath="$PROJECT_DIR$/../dkeTest/personalFeed/personalFeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/posting/posting.iml" filepath="$PROJECT_DIR$/../dkeTest/posting/posting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/registration/registration.iml" filepath="$PROJECT_DIR$/../dkeTest/registration/registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/search/search.iml" filepath="$PROJECT_DIR$/../dkeTest/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dkeTest/setting/setting.iml" filepath="$PROJECT_DIR$/../dkeTest/setting/setting.iml" />
+    </modules>
+  </component>
+</project>
